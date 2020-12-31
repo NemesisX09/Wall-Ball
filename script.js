@@ -15,6 +15,7 @@ var ball = {
   width: 20,
   height: 20,
 }
+//helllo
 var px = window.innerWidth / 2 - 10;
 var py = window.innerHeight / 2 - 10;
 var pdx = 0;
